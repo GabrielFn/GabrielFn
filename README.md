@@ -1,9 +1,8 @@
 # Olá, eu sou o Gabriel 👋
 
-**Desenvolvedor Front-end** com foco em **React, React Native e TypeScript**.
-Atualmente na [@Pagnet](https://github.com/Pagnet), contribuindo com o design system **Ocean DS**.
+**Desenvolvedor Fullstack** com foco em **TypeScript, React, React Native, Next.js e Node.js**.
 
-- 🧩 Interesso-me por arquitetura front-end: microfrontends, design systems e performance
+- 🧩 Interesso-me por arquitetura de software: microfrontends, design systems, APIs e performance
 - 🤖 Explorando aplicações com IA generativa (Next.js + API da Anthropic)
 - 📱 Desenvolvo apps mobile com React Native
 - 📫 Contato: [LinkedIn](https://www.linkedin.com/in/gabriel-fernandes-da-silva-33336882)
@@ -26,7 +25,7 @@ Atualmente na [@Pagnet](https://github.com/Pagnet), contribuindo com o design sy
 | --- | --- | --- |
 | [**Tal Dono, Tal Pet**](https://github.com/GabrielFn/tal-dono-tal-pet) · [demo](https://tal-dono-tal-pet.vercel.app) | Web app que usa IA para medir o quanto uma pessoa se parece com seu cachorro e gera um card para Stories/TikTok | Next.js 15, TypeScript, Claude API |
 | [**mf-demo**](https://github.com/GabrielFn/mf-demo) | Microfrontends com Module Federation: manifest dinâmico, soft redirect e shell expondo módulos | React 18, Webpack 5 |
-| [**Ocean DS**](https://github.com/GabrielFn/ocean-ds-web) | Contribuições ao design system da Blu/Pagnet | React, TypeScript |
+| [**Ocean DS**](https://github.com/GabrielFn/ocean-ds-web) | Contribuições ao design system Ocean DS, da Blu | React, TypeScript |
 | [**Treinador Abner**](https://github.com/GabrielFn/TreinadorAbner) | Landing page real para um personal trainer | Next.js, Tailwind |
 
 ## 📊 Estatísticas
